@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oludeadeola" alt="oludeadeola" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce project**
-
-- 🌱 I’m currently learning **node js**
+🔭 I’m currently working on something big and impactful
 
 - 📫 How to reach me **oludeadeola67@gmail.com**
 
