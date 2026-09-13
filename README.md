@@ -44,6 +44,25 @@ I am a **Software Engineer** dedicated to building scalable, high-performance ap
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oludeadeola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adeola's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oludeadeola&theme=tokyonight&hide_border=true" alt="Adeola's GitHub streak" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oludeadeola&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Oludeadeola&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📫 Connect with Me
 <p align="left">
   <a href="mailto:oludeadeola67@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
