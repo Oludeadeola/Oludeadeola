@@ -3,6 +3,12 @@
 <h3 align="center">Software Engineer | Building Impactful Digital Solutions</h3>
 
 <p align="center">
+  <a href="https://portfoilio-alpha-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View_Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Oludeadeola">
     <img src="https://img.shields.io/github/followers/Oludeadeola?label=Follow&style=social" alt="Follow" />
   </a>
@@ -65,6 +71,7 @@ I am a **Software Engineer** dedicated to building scalable, high-performance ap
 
 ### 📫 Connect with Me
 <p align="left">
+  <a href="https://portfoilio-alpha-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:oludeadeola67@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Oludeadeola"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
